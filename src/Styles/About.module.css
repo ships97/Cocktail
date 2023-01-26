@@ -1,0 +1,13 @@
+.head1{
+    margin-top: 100px;
+    letter-spacing: 4px;
+}
+.para{
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 50px;
+    letter-spacing: 0.1em;
+    line-height: 30px;
+    text-align: left;
+    width: 630px;
+}

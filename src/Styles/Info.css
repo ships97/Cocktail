@@ -1,0 +1,119 @@
+#butn{
+    padding: 10px;
+    letter-spacing: 0.4em;
+    border-radius: 5px;
+    border: 1px solid #476a2e;
+    background-color: #476a2e;
+    color: white;
+    margin-top: 100px;
+    cursor: pointer;
+}
+#butn:hover{
+    background-color: #a7c492;
+    color: #476a2e;
+    border: 1px solid #a7c492;
+    transition: 0.5s;
+}
+.mainInfo{
+    /* border: 1px solid black; */
+    width: 78%;
+    margin: auto;
+    margin-top: 60px;
+    display: flex;
+    margin-bottom: 100px;
+}
+#firbox{
+    height: 450px;
+}
+#img1{
+    height: 100%;
+}
+#secbox{
+    /* border: 1px solid red; */
+    margin-left: 40px;
+}
+#divi1{
+    /* border: 1px solid black; */
+    margin-top: 50px;
+    margin-bottom: -20px;
+}
+#divi2{
+    /* border: 1px solid black; */
+    margin-bottom: -20px;
+}
+#divi3{
+    /* border: 1px solid black; */
+    margin-bottom: -20px;
+}
+#divi4{
+    /* border: 1px solid black; */
+    margin-bottom: -20px;
+}
+#divi5{
+    /* border: 1px solid black; */
+    width: 700px;
+    margin-bottom: -30px;
+}
+#divi6{
+    /* border: 1px solid black; */
+    margin-bottom: -20px;
+}
+#name1{
+    border: 1px solid #d4e6a5;
+    width: 65px;
+    padding: 3px;
+    color: #476a2e;
+    background-color: #d4e6a5;
+    border-radius: 3px;
+}
+#title1{
+    margin-left: 10px;
+    margin-top: 25px;
+}
+#category1{
+    border: 1px solid #d4e6a5;
+    width: 90px;
+    padding: 3px;
+    color: #476a2e;
+    background-color: #d4e6a5;
+    border-radius: 3px;
+}
+#info1{
+    border: 1px solid #d4e6a5;
+    width: 50px;
+    padding: 3px;
+    color: #476a2e;
+    background-color: #d4e6a5;
+    border-radius: 3px;
+}
+#glass1{
+    border: 1px solid #d4e6a5;
+    width: 60px;
+    padding: 3px;
+    color: #476a2e;
+    background-color: #d4e6a5;
+    border-radius: 3px;
+}
+#instruct1{
+    border: 1px solid #d4e6a5;
+    width: 110px;
+    height: 25px;
+    padding: 3px;
+    color: #476a2e;
+    background-color: #d4e6a5;
+    border-radius: 3px;
+}
+#titlee2{
+    width: 80%; 
+    text-align: left;
+    margin-left: 11px;  
+    margin-top: 18px;
+}
+#ingre1{
+    border: 1px solid #d4e6a5;
+    width: 100px;
+    padding: 3px;
+    color: #476a2e;
+    background-color: #d4e6a5;
+    border-radius: 3px;
+}
