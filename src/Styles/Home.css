@@ -36,6 +36,7 @@
     grid-template-columns: repeat(3,1fr);
     gap: 60px 30px;
     margin: auto;
+    margin-bottom: 100px;
 }
 .secdiv{
     /* border:1px solid blue; */
