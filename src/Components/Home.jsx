@@ -32,7 +32,7 @@ const Home = () => {
         console.log(err);
       })
     }, 100);
-    return () => clearTimeout(getData)
+    return () => clearTimeout(getData);
   }, [search]);
 
   const handleInfo = (idDrink,strDrink,strGlass,strDrinkThumb,strAlcoholic,strCategory,strInstructions,strIngredient1) => {
