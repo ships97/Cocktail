@@ -8,7 +8,6 @@ const Home = () => {
   const navigate = useNavigate("");
   // console.log(cocktails)
   const [search, setSearch] = useState("");
-  // const [page, setPage] = useState(1);
 
   useEffect(() => {
     axios.get(`https://www.thecocktaildb.com/api/json/v1/1/search.php?f=a`)
@@ -75,12 +74,6 @@ const Home = () => {
           })
         }
       </div>
-
-      {/* <div id='lastbox'>
-        <button disabled={page===1} onClick={() => setPage(page-1)} id='buttonn1'>PREV</button>
-        <button id='buttonn2'>{page}</button>
-        <button onClick={() => setPage(page+1)} id='buttonn3'>NEXT</button>
-      </div> */}
     </>
   )
 }
